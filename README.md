@@ -12,9 +12,9 @@ Display a quote with head shot, name and title
 
 ## Requirements
 
-* Silverstripe ^5
-* Silverstripe Elemental ^5
-* jonom/focuspoint ^5
+* Silverstripe ^6
+* Silverstripe Elemental ^6
+* jonom/focuspoint ^6
 
 ## Installation
 
